@@ -1,0 +1,7 @@
+variable "varsg" {
+  
+}
+
+variable "varsn" {
+  
+}
